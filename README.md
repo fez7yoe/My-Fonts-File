@@ -9,4 +9,7 @@
 筑紫A丸 @ TsukuA：[微信原文](https://mp.weixin.qq.com/s/uAGvdwUSC-h28JhqAYVP8Q) [下載連結](https://njzybaby.lanzoui.com/b07sle58j) 下載密碼 njzy<br>
 隨峰體 @ The Peak Font Beta：[隨峰體](https://cjkfonts.io/blog/ThePeakFont)<br>
 霞鹜文楷 @ LXGW WenKai：[lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)<br>
-霞鹜文楷屏幕阅读版 @ LXGW WenKai Screen：[lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen)
+霞鹜文楷屏幕阅读版 @ LXGW WenKai Screen：[lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen)<br>
+宅在家自動筆 @ StarLovePencil：[免費字型！宅在家自動筆](https://home.gamer.com.tw/creationDetail.php?sn=4470108)<br>
+宅在家麥克筆 @ StarLoveMarker：[免費字型！宅在家麥克筆](https://home.gamer.com.tw/creationDetail.php?sn=4662078)<br>
+宅在家粉條甜 @ StarLoveSweety：[免費字型！宅在家粉條甜](https://home.gamer.com.tw/creationDetail.php?sn=5378926)
