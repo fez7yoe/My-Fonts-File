@@ -13,4 +13,5 @@
 宅在家自動筆 @ StarLovePencil：[免費字型！宅在家自動筆](https://home.gamer.com.tw/creationDetail.php?sn=4470108)<br>
 宅在家麥克筆 @ StarLoveMarker：[免費字型！宅在家麥克筆](https://home.gamer.com.tw/creationDetail.php?sn=4662078)<br>
 宅在家粉條甜 @ StarLoveSweety：[免費字型！宅在家粉條甜](https://home.gamer.com.tw/creationDetail.php?sn=5378926)<br>
-辰宇落雁 @ chenyuluoyan_thin：[Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin)
+辰宇落雁 @ chenyuluoyan_thin：[Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin)<br>
+源泉圓體 @ GenSenRounded：[ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font)
