@@ -16,4 +16,5 @@
 辰宇落雁 @ chenyuluoyan_thin：[Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin)<br>
 源泉圓體 @ GenSenRounded：[ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font)<br>
 釘釘進步體 @ DingTalkJinBuTi：[部落格介紹](https://blog.zhheo.com/p/e8a11f39.html) and [官網下載](https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl) & [藍奏雲下載](https://zhheo.lanzoul.com/i6PSQ0kc3rwf) & [123 雲盤下載](https://www.123pan.com/s/8fqA-JbhW3)<br>
-漢儀文黑 @ HYWenHei：[漢儀文黑-85W](https://www.hanyi.com.cn/productdetail?id=992) **原神字體**
+漢儀文黑 @ HYWenHei：[漢儀文黑-85W](https://www.hanyi.com.cn/productdetail?id=992) 原神字體，支援簡體中文，正體中文缺爛<br>
+原神 @ Genshin：[原神官方網站](https://genshin.hoyoverse.com/zh-tw/home) 從 Windows 版遊戲資料中複製出來的字體，比漢儀文黑齊全很多
